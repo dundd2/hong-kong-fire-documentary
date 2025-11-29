@@ -19,6 +19,7 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 - **勞工處 (Labour Department)**
   - [勞工處回覆 (260) in LM to LD GR6-1561 Pt. 583](%28260%29%20in%20LM%20to%20LD%20GR6-1561%20Pt.%20583.jpg)
   - [竹棚架安全工作守則 (Code of Practice for Bamboo Scaffolding Safety)](Code%20of%20Practice%20for%20Bamboo%20Scaffolding%20Safety.pdf)
+  - [竹棚架工作安全守則第五版](Bamboo.pdf) - 收集自: <https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf>
 
 - **消防處 (Fire Services Department)**
   - [消防安全守則 (Fire Safety Code)](Fire%20Safety%20Code.png)

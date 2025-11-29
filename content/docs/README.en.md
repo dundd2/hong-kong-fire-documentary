@@ -19,6 +19,7 @@ This section contains replies from government departments, public letters, statu
 - **Labour Department (LD)**
   - [Department Reply (260) in LM to LD GR6-1561 Pt. 583](%28260%29%20in%20LM%20to%20LD%20GR6-1561%20Pt.%20583.jpg)
   - [Code of Practice for Bamboo Scaffolding Safety](Code%20of%20Practice%20for%20Bamboo%20Scaffolding%20Safety.pdf)
+  - [Code of Practice for Bamboo Scaffolding Safety 5th Edition](Bamboo.pdf) - Collected from: <https://www.labour.gov.hk/tc/public/pdf/os/B/Bamboo.pdf>
 
 - **Fire Services Department (FSD)**
   - [Fire Safety Code](Fire%20Safety%20Code.png)
