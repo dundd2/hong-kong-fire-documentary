@@ -16,6 +16,7 @@ This section compiles news reports, feature articles, and official releases from
 - [**Oriental Daily**](東方日報/Readme.md)
 - [**InMedia**](獨立媒體/Readme.md)
 - [**The Collective**](集誌社/Readme.md)
+- [**Points Media**](棱角/Readme.md)
 - [**The Witness**](法庭線/Readme.md)
 - [**BBC Chinese**](BBC%20中文網/Readme.md)
 - [**Takungpao**](大公文匯/Readme.md)
