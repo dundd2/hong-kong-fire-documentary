@@ -21,6 +21,10 @@
 - [**BBC 中文網**](BBC%20中文網/Readme.md)
 - [**大公文匯**](大公文匯/Readme.md)
 - [**點新聞(Dotdotnews)**](Dotdotnews/Readme.md)
+- [**晴報 (Sky Post)**](晴報/Readme.md)
+- [**英文虎報 (The Standard)**](The%20Standard/Readme.md)
+- [**巴士的報 (Bastille Post)**](巴士的報/Readme.md)
+- [**人民日報大湾区(People's Daily GBA)**](人民日報大湾区/Readme.md)
 
 ## 國際媒體 (International Media)
 

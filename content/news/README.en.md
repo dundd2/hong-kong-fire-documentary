@@ -21,6 +21,10 @@ This section compiles news reports, feature articles, and official releases from
 - [**BBC Chinese**](BBC%20中文網/Readme.md)
 - [**Takungpao**](大公文匯/Readme.md)
 - [**Dotdotnews**](Dotdotnews/Readme.md)
+- [**Sky Post**](晴報/Readme.md)
+- [**The Standard**](The%20Standard/Readme.md)
+- [**Bastille Post**](巴士的報/Readme.md)
+- [**People's Daily Greater Bay Area**](人民日報大湾区/Readme.md)
 
 ## International Media
 
