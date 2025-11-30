@@ -6,6 +6,4 @@ This section archives news reports from international media outlets, organized b
 ## Languages / 語言分類
 
 - [**German (Deutsch)**](German/README.md)
-  - Tagesschau
 - [**Japanese (日本語)**](Japanese/Japan%20Times/Readme.md)
-  - Japan Times
