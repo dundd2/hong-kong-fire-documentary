@@ -47,3 +47,41 @@ The test results suggest that if non-flame-retardant scaffolding netting and sty
 - **News Report / 新聞報道**: [TVB News](https://news.tvb.com/tc/local/692acecbe4352941294b01d2/%E6%B8%AF%E6%BE%B3-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%9C%AC%E5%8F%B0%E6%B8%AC%E8%A9%A6%E6%B2%99%E7%94%B0%E7%A9%97%E7%A6%BE%E8%8B%91%E7%B6%AD%E4%BF%AE%E6%A3%9A%E7%B6%B2%E9%98%BB%E7%87%83%E5%8A%9F%E8%83%BD%E5%AD%98%E7%96%91-%E5%AD%B8%E8%80%85%E7%B1%B2%E5%B0%8F%E5%BF%83%E8%99%95%E7%90%86)
 - **Video Archive / 影片備份**: [Google Drive](https://drive.google.com/file/d/1dg0W_d8pNTqwrY2Cgu7E0cxuaYvsWvR9/view?usp=drive_link)
 
+---
+
+## HOY TV Report on Styrofoam Board Certification / HOY TV：消防顧問質疑發泡膠板檢測證書
+
+**Date / 日期:** 2025-12-01
+**Source / 來源:** HOY TV
+
+### Background / 背景
+After the fire, workers removed styrofoam boards from Wang Fuk Court. The Owners' Corporation claimed they used the boards because they accepted the contractor's test certificate. The certificate indicated the boards met the National Standard **B2(D)** for combustible materials.
+
+火災後，宏福苑法團指信納承建商提供的檢測證書，顯示發泡膠板符合國家標準 **B2(D)** 級要求。
+
+### Issues Raised by Fire Consultant / 消防顧問提出的疑點
+Fire Consultant Leung Kam-tak (梁錦德) highlighted several issues with the certificate:
+
+1.  **Unrecognized Certification Body**: The "CMA" marked on the certificate is not a mainland certification body recognized in Hong Kong.
+2.  **Inspection Report vs. Test Report**: The document is merely an "Inspection Report" (visual inspection), not a detailed "Test Report" or "Case Report".
+3.  **Lack of Data**: A proper test report should include details on test standards, instruments used, and temperature records, which are missing in this document.
+4.  **Incomplete Information**: The QR code on the certificate links to confusing results and does not mention any flame-retardant coating on the styrofoam.
+
+消防顧問梁錦德指出：
+1.  **機構資質**: 證書上的 CMA 字樣顯示其並非香港認可的內地認證機構。
+2.  **報告性質**: 該文件僅為「檢驗報告 (Inspection Report)」（肉眼觀察），而非嚴謹的「測試報告 (Test Report)」。
+3.  **缺乏數據**: 報告缺乏測試標準、儀器及溫度紀錄等關鍵數據。
+4.  **資料不全**: 掃描二維碼後的結果混亂，且未提及阻燃塗層。
+
+### Technical Context: Class B2(D) Standard / 技術背景：B2(D) 級標準
+According to the National Standard, Class B2(D) requires:
+- **Heat Release**: Maximum 750 Watts/second (approx. medium heat of a microwave).
+- **Flame Height**: Maximum 15cm within 60 seconds of ignition.
+
+國家標準 B2(D) 級要求：
+- **熱量釋放**: 每秒最多 750 瓦特。
+- **火焰高度**: 起火 60 秒內最高 15 厘米。
+
+### Resources / 相關資料
+- **News Detail / 新聞詳情**: [HOY TV Report](../news/hoy-tv/archive/2025-12-01-fire-consultant-questions-certificate.md)
+- **Video Archive / 影片備份**: [Google Drive](https://drive.google.com/file/d/1lcKWEkgjxO_-7m5MzZvpboGIOP2e03SE/view?usp=drive_link)
