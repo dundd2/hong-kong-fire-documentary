@@ -10997,7 +10997,1447 @@
       "source": "hkgov Press Release",
       "scraped_at": "2025-11-30T17:08:30.849618",
       "archive_path": "content/news/hkgov Press Release/archive/arrangements-for-replacement-of-personal-documents-for-residents-affected-by"
+    },
+    "https://news.tvbs.com.tw/world/3055909": {
+      "title": "17年首次五級火警　香港大埔宏福苑釀至少13死　1消防員殉職",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:22:52.915262",
+      "archive_path": "content/news/tvbs/archive/17年首次五級火警-香港大埔宏福苑釀至少13死-1消防員殉職"
+    },
+    "https://news.tvbs.com.tw/world/3055982": {
+      "title": "惡火擊香港「宏福苑」　樓齡42年　整修未設防火棚架圍網？　原因待查",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:22:59.030314",
+      "archive_path": "content/news/tvbs/archive/惡火擊香港宏福苑-樓齡42年-整修未設防火棚架圍網-原因待查"
+    },
+    "https://news.tvbs.com.tw/world/3055980": {
+      "title": "香港大埔大火登「CNN、BBC」頭條　TVBS火速抵現場",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:23:05.348418",
+      "archive_path": "content/news/tvbs/archive/香港大埔大火登cnnbbc頭條-tvbs火速抵現場"
+    },
+    "https://news.tvbs.com.tw/entertainment/3055997": {
+      "title": "香港大火／MAMA倒數2天…韓網喊停辦　「典禮只能照走」理由曝",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:23:11.958808",
+      "archive_path": "content/news/tvbs/archive/香港大火mama倒數2天韓網喊停辦-典禮只能照走理由曝"
+    },
+    "https://news.tvbs.com.tw/china/3055903": {
+      "title": "香港大火／大埔五級火災燒成災難！專家曝2因素助長火勢",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:23:17.921959",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔五級火災燒成災難專家曝2因素助長火勢"
+    },
+    "https://news.tvbs.com.tw/china/3055880": {
+      "title": "香港大火／大埔宏福苑五級火！1消防員殉職　網友湧FB致敬英雄",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:23:24.180131",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑五級火1消防員殉職-網友湧fb致敬英雄"
+    },
+    "https://news.tvbs.com.tw/china/3055901": {
+      "title": "香港大火／大埔宏福苑五級火！民政處急開3庇護點　安置上百居民",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:23:30.310507",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑五級火民政處急開3庇護點-安置上百居民"
+    },
+    "https://news.tvbs.com.tw/china/3055956": {
+      "title": "香港大火／大埔宏福苑入夜還在燒…家屬衝醫院淚尋親友",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:23:35.612334",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑入夜還在燒家屬衝醫院淚尋親友"
+    },
+    "https://news.tvbs.com.tw/china/3055722": {
+      "title": "香港大火／大埔宏福苑四級火！烈焰沖天「已4死3傷」消防殉職",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:23:41.324803",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑四級火烈焰沖天已4死3傷消防殉職"
+    },
+    "https://news.tvbs.com.tw/china/3055900": {
+      "title": "香港大火／大埔宏福苑已「13死多人傷」！惡火3小時吞4棟樓",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:23:47.299230",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑已13死多人傷惡火3小時吞4棟樓"
+    },
+    "https://news.tvbs.com.tw/life/3055760": {
+      "title": "香港大火／大埔宏福苑曾捲10億維修爭議！棚架原定明年3月拆除",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:23:53.654935",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑曾捲10億維修爭議棚架原定明年3月拆除"
+    },
+    "https://news.tvbs.com.tw/china/3055870": {
+      "title": "香港大火／大埔宏福苑棚架起火失控　網質疑維修工抽菸釀禍",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:00.190311",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑棚架起火失控-網質疑維修工抽菸釀禍"
+    },
+    "https://news.tvbs.com.tw/china/3055883": {
+      "title": "香港大火／大埔宏福苑火勢升五級！消防總長坐鎮指揮　六級制一次看",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:06.270047",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑火勢升五級消防總長坐鎮指揮-六級制一次看"
+    },
+    "https://news.tvbs.com.tw/world/3055737": {
+      "title": "香港大火／大埔宏福苑火災釀4死3傷　居民曝可能起火點：風超大",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:12.008839",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑火災釀4死3傷-居民曝可能起火點風超大"
+    },
+    "https://news.tvbs.com.tw/life/3055752": {
+      "title": "香港大火／大埔宏福苑狂燒「勇消殉職」！消防處長急奔醫院",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:18.018061",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑狂燒勇消殉職消防處長急奔醫院"
+    },
+    "https://news.tvbs.com.tw/china/3055762": {
+      "title": "香港大火／大埔宏福苑被吞沒！勇消「黃金戰衣」全熏黑　驚人畫面曝",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:23.746476",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑被吞沒勇消黃金戰衣全熏黑-驚人畫面曝"
+    },
+    "https://news.tvbs.com.tw/china/3055845": {
+      "title": "香港大火／宏福苑入夜燒更猛！現場爆炸聲不斷　居民困頂樓急求救",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:29.394424",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑入夜燒更猛現場爆炸聲不斷-居民困頂樓急求救"
+    },
+    "https://news.tvbs.com.tw/china/3055985": {
+      "title": "香港大火／宏福苑火海已13死！習近平發聲哀悼、慰問罹難者家屬",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:34.565529",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑火海已13死習近平發聲哀悼慰問罹難者家屬"
+    },
+    "https://news.tvbs.com.tw/china/3055857": {
+      "title": "香港大火／宏福苑燒成火柱！居民聞到焦味才知火警：沒聽到警報聲",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:40.894805",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑燒成火柱居民聞到焦味才知火警沒聽到警報聲"
+    },
+    "https://news.tvbs.com.tw/china/3055865": {
+      "title": "香港大火／宏福苑竹棚不防火燒成五級火！外媒：香港施工廣泛使用",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:46.728162",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑竹棚不防火燒成五級火外媒香港施工廣泛使用"
+    },
+    "https://news.tvbs.com.tw/life/3055881": {
+      "title": "香港大火／宏福苑起火點曝光！棚架火苗一路竄　目擊者急吼：失火了",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:51.964092",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑起火點曝光棚架火苗一路竄-目擊者急吼失火了"
+    },
+    "https://news.tvbs.com.tw/china/3055876": {
+      "title": "香港大火／烈焰就在眼前！宏福苑住戶視角瘋傳　他嗆到狂咳急關窗",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:24:58.326289",
+      "archive_path": "content/news/tvbs/archive/香港大火烈焰就在眼前宏福苑住戶視角瘋傳-他嗆到狂咳急關窗"
+    },
+    "https://news.tvbs.com.tw/china/3055933": {
+      "title": "香港大火／狂燒7棟樓！消防曝「火場溫度高」：部分樓層仍進不去",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:04.951513",
+      "archive_path": "content/news/tvbs/archive/香港大火狂燒7棟樓消防曝火場溫度高部分樓層仍進不去"
+    },
+    "https://news.tvbs.com.tw/china/3055851": {
+      "title": "香港大火／衝前線灌救宏福苑！37歲勇消臉部燒傷　緊急搶救仍不治",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:10.849902",
+      "archive_path": "content/news/tvbs/archive/香港大火衝前線灌救宏福苑37歲勇消臉部燒傷-緊急搶救仍不治"
+    },
+    "https://news.tvbs.com.tw/world/3056912": {
+      "title": "「我兒子躲廁所　至今失聯」　災民尋親　心急如焚",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:17.065916",
+      "archive_path": "content/news/tvbs/archive/我兒子躲廁所-至今失聯-災民尋親-心急如焚"
+    },
+    "https://news.tvbs.com.tw/world/3055926": {
+      "title": "不斷更新／香港大埔宏福苑5級惡火》死亡攀升「累計55死」72人送醫　下午又竄火舌",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:23.064453",
+      "archive_path": "content/news/tvbs/archive/不斷更新香港大埔宏福苑5級惡火死亡攀升累計55死72人送醫-下午又竄火舌"
+    },
+    "https://news.tvbs.com.tw/world/3056556": {
+      "title": "台網友諷香港大火像無限城、101煙火　港人怒喊下地獄",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:28.673014",
+      "archive_path": "content/news/tvbs/archive/台網友諷香港大火像無限城101煙火-港人怒喊下地獄"
+    },
+    "https://news.tvbs.com.tw/world/3056346": {
+      "title": "國際媒體都來了！　宏福苑大火引關注　CNN：人口密集擴大災情",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:35.017497",
+      "archive_path": "content/news/tvbs/archive/國際媒體都來了-宏福苑大火引關注-cnn人口密集擴大災情"
+    },
+    "https://news.tvbs.com.tw/local/3056709": {
+      "title": "外牆易燃材質恐成奪命關鍵　港警逮5人調查",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:41.473075",
+      "archive_path": "content/news/tvbs/archive/外牆易燃材質恐成奪命關鍵-港警逮5人調查"
+    },
+    "https://news.tvbs.com.tw/world/3056955": {
+      "title": "大火燒28小時又救出活口！　香港75死宏福苑大火全紀錄",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:47.821238",
+      "archive_path": "content/news/tvbs/archive/大火燒28小時又救出活口-香港75死宏福苑大火全紀錄"
+    },
+    "https://news.tvbs.com.tw/china/3056296": {
+      "title": "宏福苑3.3億港幣「天價維修費」　住戶負擔重曾爆抗議",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:53.622614",
+      "archive_path": "content/news/tvbs/archive/宏福苑33億港幣天價維修費-住戶負擔重曾爆抗議"
+    },
+    "https://news.tvbs.com.tw/world/3056911": {
+      "title": "宏福苑受困失聯名單持續擴大　香港共收341求助個案",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:25:59.851174",
+      "archive_path": "content/news/tvbs/archive/宏福苑受困失聯名單持續擴大-香港共收341求助個案"
+    },
+    "https://news.tvbs.com.tw/local/3056268": {
+      "title": "宏福苑大火！上千警消投入救援　37歲消防員殉職",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:26:06.248048",
+      "archive_path": "content/news/tvbs/archive/宏福苑大火上千警消投入救援-37歲消防員殉職"
+    },
+    "https://news.tvbs.com.tw/local/3056271": {
+      "title": "宏福苑惡火噬家園　居民哭喊：家人在裡面",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:26:12.182991",
+      "archive_path": "content/news/tvbs/archive/宏福苑惡火噬家園-居民哭喊家人在裡面"
+    },
+    "https://news.tvbs.com.tw/world/3057077": {
+      "title": "宏福苑遇惡火 年輕媽媽淚崩找嘸母親、寶寶",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:26:18.282246",
+      "archive_path": "content/news/tvbs/archive/宏福苑遇惡火-年輕媽媽淚崩找嘸母親寶寶"
+    },
+    "https://news.tvbs.com.tw/world/3057076": {
+      "title": "搶救！　香港宏福苑大火　死亡人數升至75人",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:26:24.907957",
+      "archive_path": "content/news/tvbs/archive/搶救-香港宏福苑大火-死亡人數升至75人"
+    },
+    "https://news.tvbs.com.tw/world/3056018": {
+      "title": "最新／大埔宏福苑大火迄今13死30傷　焚燒11小時仍未撲滅",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:26:30.633171",
+      "archive_path": "content/news/tvbs/archive/最新大埔宏福苑大火迄今13死30傷-焚燒11小時仍未撲滅"
+    },
+    "https://news.tvbs.com.tw/world/3056033": {
+      "title": "清晨最新／香港宏福苑5級大火延燒　至少36死279失蹤",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:26:36.517636",
+      "archive_path": "content/news/tvbs/archive/清晨最新香港宏福苑5級大火延燒-至少36死279失蹤"
+    },
+    "https://news.tvbs.com.tw/world/3056830": {
+      "title": "港惡火追因！竹子鷹架易燃　保麗龍封窗　火舌向上竄燒",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:26:42.193098",
+      "archive_path": "content/news/tvbs/archive/港惡火追因竹子鷹架易燃-保麗龍封窗-火舌向上竄燒"
+    },
+    "https://news.tvbs.com.tw/life/3056423": {
+      "title": "滅火器怎麼選？乾粉、強化液差在哪？種類、效期與正確使用4步驟",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:26:48.613158",
+      "archive_path": "content/news/tvbs/archive/滅火器怎麼選乾粉強化液差在哪種類效期與正確使用4步驟"
+    },
+    "https://news.tvbs.com.tw/life/3056254": {
+      "title": "火災逃生迷思破解：躲浴室、濕毛巾摀口鼻竟是死路？5大觀念救你一命",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:26:54.570291",
+      "archive_path": "content/news/tvbs/archive/火災逃生迷思破解躲浴室濕毛巾摀口鼻竟是死路5大觀念救你一命"
+    },
+    "https://news.tvbs.com.tw/world/3056761": {
+      "title": "火花燃燒碎片不斷掉落！　CNN徹夜直擊惡火延燒7塔樓",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:00.099833",
+      "archive_path": "content/news/tvbs/archive/火花燃燒碎片不斷掉落-cnn徹夜直擊惡火延燒7塔樓"
+    },
+    "https://news.tvbs.com.tw/world/3056000": {
+      "title": "特派直擊／「火勢像怪獸吞樓」宏福苑5級大火　36人喪命、400災民急撤中學禮堂",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:06.269766",
+      "archive_path": "content/news/tvbs/archive/特派直擊火勢像怪獸吞樓宏福苑5級大火-36人喪命400災民急撤中學禮堂"
+    },
+    "https://news.tvbs.com.tw/world/3056343": {
+      "title": "疑未用「阻燃網」！　宏福苑火蔓延快　港警搜公司文件、逮3人",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:12.398274",
+      "archive_path": "content/news/tvbs/archive/疑未用阻燃網-宏福苑火蔓延快-港警搜公司文件逮3人"
+    },
+    "https://news.tvbs.com.tw/world/3056753": {
+      "title": "超密集！宏福苑樓距僅10M　居民：火苗飄哪燒到哪",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:18.354338",
+      "archive_path": "content/news/tvbs/archive/超密集宏福苑樓距僅10m-居民火苗飄哪燒到哪"
+    },
+    "https://news.tvbs.com.tw/china/3056960": {
+      "title": "香港大火圖輯／宏福苑惡火奪65條人命！民眾陸橋旁獻花哀悼",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:24.511430",
+      "archive_path": "content/news/tvbs/archive/香港大火圖輯宏福苑惡火奪65條人命民眾陸橋旁獻花哀悼"
+    },
+    "https://news.tvbs.com.tw/china/3056265": {
+      "title": "香港大火圖輯／宏福苑燒16小時！奪44條人命　1消防英勇殉職",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:29.662395",
+      "archive_path": "content/news/tvbs/archive/香港大火圖輯宏福苑燒16小時奪44條人命-1消防英勇殉職"
+    },
+    "https://news.tvbs.com.tw/local/3056754": {
+      "title": "香港大火釀55死！鷹架坍塌火舌再竄　民眾裹棉被淚看家成廢墟",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:36.678040",
+      "archive_path": "content/news/tvbs/archive/香港大火釀55死鷹架坍塌火舌再竄-民眾裹棉被淚看家成廢墟"
+    },
+    "https://news.tvbs.com.tw/world/3056710": {
+      "title": "香港大火／70歲母受困27樓浴室！女兒曝「最後通話」：等不到救援",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:43.093360",
+      "archive_path": "content/news/tvbs/archive/香港大火70歲母受困27樓浴室女兒曝最後通話等不到救援"
+    },
+    "https://news.tvbs.com.tw/china/3056440": {
+      "title": "香港大火／72歲老人獨自在家！靠女兒「1通跨國電話」逃生",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:49.097591",
+      "archive_path": "content/news/tvbs/archive/香港大火72歲老人獨自在家靠女兒1通跨國電話逃生"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056232": {
+      "title": "香港大火／MAMA急開會「紅毯恐取消」！頒獎典禮照錄延後播",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:27:55.050033",
+      "archive_path": "content/news/tvbs/archive/香港大火mama急開會紅毯恐取消頒獎典禮照錄延後播"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056114": {
+      "title": "香港大火／MAMA明開辦是否取消？IVE、Stray Kids仍現身機場",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:01.617936",
+      "archive_path": "content/news/tvbs/archive/香港大火mama明開辦是否取消ivestray-kids仍現身機場"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056692": {
+      "title": "香港大火／MAMA照常舉辦　鄧紫棋、謝霆鋒、鄭秀文大咖祈福　他親送物資",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:08.691171",
+      "archive_path": "content/news/tvbs/archive/香港大火mama照常舉辦-鄧紫棋謝霆鋒鄭秀文大咖祈福-他親送物資"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056208": {
+      "title": "香港大火／MAMA照常舉辦！楊紫瓊恐缺席　「火焰舞台」要滅了",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:14.835792",
+      "archive_path": "content/news/tvbs/archive/香港大火mama照常舉辦楊紫瓊恐缺席-火焰舞台要滅了"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056944": {
+      "title": "香港大火／MAMA舞台不走紅毯　SM攜男團RIIZE捐500萬",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:21.404183",
+      "archive_path": "content/news/tvbs/archive/香港大火mama舞台不走紅毯-sm攜男團riize捐500萬"
+    },
+    "https://news.tvbs.com.tw/china/3056307": {
+      "title": "香港大火／主播陳嘉欣強忍淚水播報　網讚：真實版新聞女王",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:27.453771",
+      "archive_path": "content/news/tvbs/archive/香港大火主播陳嘉欣強忍淚水播報-網讚真實版新聞女王"
+    },
+    "https://news.tvbs.com.tw/china/3057071": {
+      "title": "香港大火／人母淚訴「找不到女兒與公婆」　受災戶難過：大家都心痛",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:33.853086",
+      "archive_path": "content/news/tvbs/archive/香港大火人母淚訴找不到女兒與公婆-受災戶難過大家都心痛"
+    },
+    "https://news.tvbs.com.tw/world/3056257": {
+      "title": "香港大火／偷工減料釀禍？網友曝防護網少「1功能」才瘋狂延燒",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:39.295522",
+      "archive_path": "content/news/tvbs/archive/香港大火偷工減料釀禍網友曝防護網少1功能才瘋狂延燒"
+    },
+    "https://news.tvbs.com.tw/china/3056969": {
+      "title": "香港大火／全面救災　李家超宣布：政府主辦慶祝活動取消或延期",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:45.639197",
+      "archive_path": "content/news/tvbs/archive/香港大火全面救災-李家超宣布政府主辦慶祝活動取消或延期"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056480": {
+      "title": "香港大火／吳慷仁見罹難者悲痛發文「感到很難過」　舒淇、謝霆鋒齊發聲悼念",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:51.312855",
+      "archive_path": "content/news/tvbs/archive/香港大火吳慷仁見罹難者悲痛發文感到很難過-舒淇謝霆鋒齊發聲悼念"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056366": {
+      "title": "香港大火／周潤發、楊紫瓊缺席MAMA！　無緣見到《臥虎藏龍》CP",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:28:57.586577",
+      "archive_path": "content/news/tvbs/archive/香港大火周潤發楊紫瓊缺席mama-無緣見到臥虎藏龍cp"
+    },
+    "https://news.tvbs.com.tw/china/3056070": {
+      "title": "香港大火／大埔宏福苑奪44命！麥當勞「免費供餐」助災民",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:03.274484",
+      "archive_path": "content/news/tvbs/archive/香港大火大埔宏福苑奪44命麥當勞免費供餐助災民"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056211": {
+      "title": "香港大火／奪44人命！天后容祖兒哀悼發聲「首映宣布取消」：心很痛",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:09.664014",
+      "archive_path": "content/news/tvbs/archive/香港大火奪44人命天后容祖兒哀悼發聲首映宣布取消心很痛"
+    },
+    "https://news.tvbs.com.tw/china/3056940": {
+      "title": "香港大火／奪55死、逾2百人失聯　李家超：提供災民過渡住宿安排",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:15.419021",
+      "archive_path": "content/news/tvbs/archive/香港大火奪55死逾2百人失聯-李家超提供災民過渡住宿安排"
+    },
+    "https://news.tvbs.com.tw/world/3056025": {
+      "title": "香港大火／宏福苑5級惡火多人凌晨獲救　戴氧氣罩上救護車送醫",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:21.047927",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑5級惡火多人凌晨獲救-戴氧氣罩上救護車送醫"
+    },
+    "https://news.tvbs.com.tw/life/3056079": {
+      "title": "香港大火／宏福苑5級惡火釀44死　婦認屍崩潰哭喊「我女兒沒了」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:27.864886",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑5級惡火釀44死-婦認屍崩潰哭喊我女兒沒了"
+    },
+    "https://news.tvbs.com.tw/china/3056075": {
+      "title": "香港大火／宏福苑5級火！丈夫電話「指示自救」　妻成功逃生",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:33.409891",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑5級火丈夫電話指示自救-妻成功逃生"
+    },
+    "https://news.tvbs.com.tw/china/3056375": {
+      "title": "香港大火／宏福苑5級火！李嘉誠基金會「捐款1.2億」 小米捐4000萬",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:39.047569",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑5級火李嘉誠基金會捐款12億-小米捐4000萬"
+    },
+    "https://news.tvbs.com.tw/china/3056073": {
+      "title": "香港大火／宏福苑7棟樓連燒44死！住戶：鄰居多是行動不便長者",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:45.149679",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑7棟樓連燒44死住戶鄰居多是行動不便長者"
+    },
+    "https://news.tvbs.com.tw/world/3056077": {
+      "title": "香港大火／宏福苑8大廈7座起火！低樓層向上搜救　天台救出2生還者",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:51.516304",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑8大廈7座起火低樓層向上搜救-天台救出2生還者"
+    },
+    "https://news.tvbs.com.tw/china/3056102": {
+      "title": "香港大火／宏福苑五級火已受控！7棟連燒奪44命　最新救災畫面曝",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:29:57.998360",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑五級火已受控7棟連燒奪44命-最新救災畫面曝"
+    },
+    "https://news.tvbs.com.tw/china/3056068": {
+      "title": "香港大火／宏福苑住戶一個月前憂工人抽菸恐釀災　未料竟「一語成讖」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:30:05.091888",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑住戶一個月前憂工人抽菸恐釀災-未料竟一語成讖"
+    },
+    "https://news.tvbs.com.tw/world/3056312": {
+      "title": "香港大火／宏福苑住戶逃生過程！開窗才知失火　狂按警鐘沒反應",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:30:11.783834",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑住戶逃生過程開窗才知失火-狂按警鐘沒反應"
+    },
+    "https://news.tvbs.com.tw/world/3056654": {
+      "title": "香港大火／宏福苑失火前內部畫面曝　屋齡42年13坪售1600萬",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:30:17.148490",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑失火前內部畫面曝-屋齡42年13坪售1600萬"
+    },
+    "https://news.tvbs.com.tw/china/3056451": {
+      "title": "香港大火／宏福苑失火！5歲愛女「生死不明」　父悲拿照片尋人",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:30:23.060131",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑失火5歲愛女生死不明-父悲拿照片尋人"
+    },
+    "https://news.tvbs.com.tw/china/3056145": {
+      "title": "香港大火／宏福苑奪44命！　目擊者爆「工人抽菸」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:30:29.528131",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑奪44命-目擊者爆工人抽菸"
+    },
+    "https://news.tvbs.com.tw/china/3056197": {
+      "title": "香港大火／宏福苑奪44命！工程公司遭搜警「黑布蒙頭」帶走1人",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:30:35.760732",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑奪44命工程公司遭搜警黑布蒙頭帶走1人"
+    },
+    "https://news.tvbs.com.tw/china/3056046": {
+      "title": "香港大火／宏福苑奪44命！特首李家超稱大災難：有足夠能力控制",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:30:41.825332",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑奪44命特首李家超稱大災難有足夠能力控制"
+    },
+    "https://news.tvbs.com.tw/china/3056778": {
+      "title": "香港大火／宏福苑已55死上百人失聯！港史最慘惡火奪600命",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:30:48.345076",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑已55死上百人失聯港史最慘惡火奪600命"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056302": {
+      "title": "香港大火／宏福苑惡火44死！男星林子幸「趁機賣保險」挨轟　電視台急切割",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:30:54.488640",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑惡火44死男星林子幸趁機賣保險挨轟-電視台急切割"
+    },
+    "https://news.tvbs.com.tw/china/3056470": {
+      "title": "香港大火／宏福苑惡火奪55命！住戶上月就擔憂：外面全是易燃物",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:00.233706",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑惡火奪55命住戶上月就擔憂外面全是易燃物"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056815": {
+      "title": "香港大火／宏福苑惡火奪55命！奧斯卡影后楊紫瓊發聲：我心碎不已",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:07.122620",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑惡火奪55命奧斯卡影后楊紫瓊發聲我心碎不已"
+    },
+    "https://news.tvbs.com.tw/world/3056635": {
+      "title": "香港大火／宏福苑惡火奪55命！宏業建築「歷年違規紀錄」曝",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:12.887030",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑惡火奪55命宏業建築歷年違規紀錄曝"
+    },
+    "https://news.tvbs.com.tw/world/3056013": {
+      "title": "香港大火／宏福苑火海...飛機乘客半空目擊　大量濃煙吹向大帽山",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:18.713125",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑火海飛機乘客半空目擊-大量濃煙吹向大帽山"
+    },
+    "https://news.tvbs.com.tw/world/3056078": {
+      "title": "香港大火／宏福苑火海震驚國際！英國外相發聲：深感痛心",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:24.831612",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑火海震驚國際英國外相發聲深感痛心"
+    },
+    "https://news.tvbs.com.tw/china/3056094": {
+      "title": "香港大火／宏福苑火海！居民崩潰「相擁痛哭」　舉牌急尋失聯親人",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:31.307735",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑火海居民崩潰相擁痛哭-舉牌急尋失聯親人"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056037": {
+      "title": "香港大火／宏福苑火災！男團成員親送物資安慰受災粉：不夠就說",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:37.091017",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑火災男團成員親送物資安慰受災粉不夠就說"
+    },
+    "https://news.tvbs.com.tw/china/3056156": {
+      "title": "香港大火／宏福苑火災！陳茂波「提前返港」　義大利緊急搭機",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:42.646847",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑火災陳茂波提前返港-義大利緊急搭機"
+    },
+    "https://news.tvbs.com.tw/china/3056897": {
+      "title": "香港大火／宏福苑烈火吞噬家園！住戶痛哭：一生積蓄付諸流水",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:49.120391",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑烈火吞噬家園住戶痛哭一生積蓄付諸流水"
+    },
+    "https://news.tvbs.com.tw/world/3056135": {
+      "title": "香港大火／宏福苑窗戶裝「易燃發泡膠」畫面曝　網罵貪方便又想省錢",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:31:55.499455",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑窗戶裝易燃發泡膠畫面曝-網罵貪方便又想省錢"
+    },
+    "https://news.tvbs.com.tw/politics/3056120": {
+      "title": "香港大火／宏福苑起火奪44命　賴清德：致上最深的哀悼之意",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:01.639121",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑起火奪44命-賴清德致上最深的哀悼之意"
+    },
+    "https://news.tvbs.com.tw/china/3056180": {
+      "title": "香港大火／宏福苑起火！港市民自發「人鏈」送物資塞爆庇護站",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:07.984527",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑起火港市民自發人鏈送物資塞爆庇護站"
+    },
+    "https://news.tvbs.com.tw/world/3056147": {
+      "title": "香港大火／宏福苑長者嘆繳64萬弄維修　慟看家成灰、重要文件燒光",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:13.555911",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑長者嘆繳64萬弄維修-慟看家成灰重要文件燒光"
+    },
+    "https://news.tvbs.com.tw/world/3055955": {
+      "title": "香港大火／宏福苑陷火海　港姐謝嘉怡祖母住家被燒毀：痛心的一天",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:19.800495",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑陷火海-港姐謝嘉怡祖母住家被燒毀痛心的一天"
+    },
+    "https://news.tvbs.com.tw/china/3056074": {
+      "title": "香港大火／宏福苑陷火海！施工材料疑不符標準　工程公司3人被捕",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:26.012930",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑陷火海施工材料疑不符標準-工程公司3人被捕"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056024": {
+      "title": "香港大火／宏福苑陷火海！演唱會延期、《動物方城市2》首映會取消",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:32.225372",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑陷火海演唱會延期動物方城市2首映會取消"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056356": {
+      "title": "香港大火／富邦啦啦隊粉「家被燒光」：回憶全沒了　釣出女神溫暖安慰",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:37.838034",
+      "archive_path": "content/news/tvbs/archive/香港大火富邦啦啦隊粉家被燒光回憶全沒了-釣出女神溫暖安慰"
+    },
+    "https://news.tvbs.com.tw/life/3056771": {
+      "title": "香港大火／悲劇可否避免？專家揭愛用竹木鷹架原因：台灣早用金屬",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:44.530456",
+      "archive_path": "content/news/tvbs/archive/香港大火悲劇可否避免專家揭愛用竹木鷹架原因台灣早用金屬"
+    },
+    "https://news.tvbs.com.tw/china/3056923": {
+      "title": "香港大火／殉職消防員何偉豪原下月結婚　10年女友悲喊：想再牽你的手",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:50.915742",
+      "archive_path": "content/news/tvbs/archive/香港大火殉職消防員何偉豪原下月結婚-10年女友悲喊想再牽你的手"
+    },
+    "https://news.tvbs.com.tw/world/3056358": {
+      "title": "香港大火／殉職消防員何偉豪同袍悲喊下班了　下月原定與10年女友結婚網淚崩",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:32:57.649345",
+      "archive_path": "content/news/tvbs/archive/香港大火殉職消防員何偉豪同袍悲喊下班了-下月原定與10年女友結婚網淚崩"
+    },
+    "https://news.tvbs.com.tw/world/3056595": {
+      "title": "香港大火／民眾凌晨抱物資助庇護站　他見「感動畫面」喊話香港人站出來",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:03.791830",
+      "archive_path": "content/news/tvbs/archive/香港大火民眾凌晨抱物資助庇護站-他見感動畫面喊話香港人站出來"
+    },
+    "https://news.tvbs.com.tw/china/3056095": {
+      "title": "香港大火／消防員宏福苑犧牲！小說灰燼飄落　網一見書名淚崩",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:10.038472",
+      "archive_path": "content/news/tvbs/archive/香港大火消防員宏福苑犧牲小說灰燼飄落-網一見書名淚崩"
+    },
+    "https://news.tvbs.com.tw/world/3056009": {
+      "title": "香港大火／消防員面部燒傷殉職　同袍淚悼：收工了，好好休息兄弟",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:15.963045",
+      "archive_path": "content/news/tvbs/archive/香港大火消防員面部燒傷殉職-同袍淚悼收工了好好休息兄弟"
+    },
+    "https://news.tvbs.com.tw/world/3056057": {
+      "title": "香港大火／消防指易燃發泡膠蓋窗不尋常　承建商曾稱防石擊窗",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:23.138664",
+      "archive_path": "content/news/tvbs/archive/香港大火消防指易燃發泡膠蓋窗不尋常-承建商曾稱防石擊窗"
+    },
+    "https://news.tvbs.com.tw/china/3056816": {
+      "title": "香港大火／災戶遠望家園成焦土癱軟無語　物資塞滿現各種善心超人",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:29.093618",
+      "archive_path": "content/news/tvbs/archive/香港大火災戶遠望家園成焦土癱軟無語-物資塞滿現各種善心超人"
+    },
+    "https://news.tvbs.com.tw/world/3056035": {
+      "title": "香港大火／熊熊惡火清晨仍未熄　再有消防員戴氧氣罩送醫",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:34.885075",
+      "archive_path": "content/news/tvbs/archive/香港大火熊熊惡火清晨仍未熄-再有消防員戴氧氣罩送醫"
+    },
+    "https://news.tvbs.com.tw/world/3056195": {
+      "title": "香港大火／維修爭議多防護網曾換過　住戶證實工人吸菸：屋內都聞到",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:40.890832",
+      "archive_path": "content/news/tvbs/archive/香港大火維修爭議多防護網曾換過-住戶證實工人吸菸屋內都聞到"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056029": {
+      "title": "香港大火／許冠傑發手寫信盼大家協助救援：天佑香港",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:46.651215",
+      "archive_path": "content/news/tvbs/archive/香港大火許冠傑發手寫信盼大家協助救援天佑香港"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056943": {
+      "title": "香港大火／謝嘉怡目睹祖母房子被燒　IG報平安「當時家裡沒有人」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:52.939712",
+      "archive_path": "content/news/tvbs/archive/香港大火謝嘉怡目睹祖母房子被燒-ig報平安當時家裡沒有人"
+    },
+    "https://news.tvbs.com.tw/world/3056115": {
+      "title": "香港大火／近280人失聯！7旬翁哭喊「太太還在裡面」心碎畫面曝",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:33:59.222387",
+      "archive_path": "content/news/tvbs/archive/香港大火近280人失聯7旬翁哭喊太太還在裡面心碎畫面曝"
+    },
+    "https://news.tvbs.com.tw/entertainment/3056891": {
+      "title": "香港大火／釀55死！黃明志爆「有朋友在香港」　震撼全說了",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:34:06.786506",
+      "archive_path": "content/news/tvbs/archive/香港大火釀55死黃明志爆有朋友在香港-震撼全說了"
+    },
+    "https://news.tvbs.com.tw/local/3056253": {
+      "title": "香港宏福苑大火！7棟樓釀44亡　居民淚：279人失聯",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:34:13.111580",
+      "archive_path": "content/news/tvbs/archive/香港宏福苑大火7棟樓釀44亡-居民淚279人失聯"
+    },
+    "https://news.tvbs.com.tw/china/3056270": {
+      "title": "香港惡火7棟連環燒！　至少44死279失聯",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:34:19.612987",
+      "archive_path": "content/news/tvbs/archive/香港惡火7棟連環燒-至少44死279失聯"
+    },
+    "https://news.tvbs.com.tw/china/3056274": {
+      "title": "香港近60年最嚴重火災　三小時升為最嚴重五級火",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:34:25.502025",
+      "archive_path": "content/news/tvbs/archive/香港近60年最嚴重火災-三小時升為最嚴重五級火"
+    },
+    "https://news.tvbs.com.tw/world/3056258": {
+      "title": "香港重大火警近30年回顧》從嘉利大廈到宏福苑　七大死亡火災盤點",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:34:31.731159",
+      "archive_path": "content/news/tvbs/archive/香港重大火警近30年回顧從嘉利大廈到宏福苑-七大死亡火災盤點"
+    },
+    "https://news.tvbs.com.tw/life/3056213": {
+      "title": "高樓火災逃生指南：該往上還是往下？消防署黃金3原則最新指引",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:34:37.952307",
+      "archive_path": "content/news/tvbs/archive/高樓火災逃生指南該往上還是往下消防署黃金3原則最新指引"
+    },
+    "https://news.tvbs.com.tw/world/3057718": {
+      "title": "CNN直擊災民庇護所！家園變灰燼　災民：走一步算一步",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:34:43.933371",
+      "archive_path": "content/news/tvbs/archive/cnn直擊災民庇護所家園變灰燼-災民走一步算一步"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058138": {
+      "title": "MAMA／Rosé〈APT.〉奪年度歌曲創紀錄　韓星齊講中文致哀火災",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:34:50.412686",
+      "archive_path": "content/news/tvbs/archive/mamaroseapt奪年度歌曲創紀錄-韓星齊講中文致哀火災"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057958": {
+      "title": "MAMA／朴寶劍凝重表情開場⋯帶全體閉眼默哀20秒：別更多災情",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:34:55.978428",
+      "archive_path": "content/news/tvbs/archive/mama朴寶劍凝重表情開場帶全體閉眼默哀20秒別更多災情"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057470": {
+      "title": "SJ低調抵達香港！MAMA頒獎照常舉行「取消紅毯」新增默哀儀式",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:01.833362",
+      "archive_path": "content/news/tvbs/archive/sj低調抵達香港mama頒獎照常舉行取消紅毯新增默哀儀式"
+    },
+    "https://news.tvbs.com.tw/world/3057435": {
+      "title": "一早就去連線！　日本NHK關注宏福苑大火　分析火勢擴散原因",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:08.607552",
+      "archive_path": "content/news/tvbs/archive/一早就去連線-日本nhk關注宏福苑大火-分析火勢擴散原因"
+    },
+    "https://news.tvbs.com.tw/world/3057235": {
+      "title": "全港一夕變黑白！各界齊換頭貼致哀宏福苑大火、長壽喜劇停播",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:15.503305",
+      "archive_path": "content/news/tvbs/archive/全港一夕變黑白各界齊換頭貼致哀宏福苑大火長壽喜劇停播"
+    },
+    "https://news.tvbs.com.tw/world/3057427": {
+      "title": "八方馳援香港！　捐款破8億港幣　李嘉誠基金會捐8000萬最多",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:21.709817",
+      "archive_path": "content/news/tvbs/archive/八方馳援香港-捐款破8億港幣-李嘉誠基金會捐8000萬最多"
+    },
+    "https://news.tvbs.com.tw/china/3057772": {
+      "title": "千名消防逐戶破門　搜遍7高樓找生還者",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:27.664182",
+      "archive_path": "content/news/tvbs/archive/千名消防逐戶破門-搜遍7高樓找生還者"
+    },
+    "https://news.tvbs.com.tw/world/3057291": {
+      "title": "多圖／宏福苑大火昨開放認屍　家屬靠照片相認見最後一面痛哭",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:33.631276",
+      "archive_path": "content/news/tvbs/archive/多圖宏福苑大火昨開放認屍-家屬靠照片相認見最後一面痛哭"
+    },
+    "https://news.tvbs.com.tw/world/3057454": {
+      "title": "宏福苑大火D3！　家屬悲慟認屍 「20年家園毀」母子淚崩",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:39.484827",
+      "archive_path": "content/news/tvbs/archive/宏福苑大火d3-家屬悲慟認屍-20年家園毀母子淚崩"
+    },
+    "https://news.tvbs.com.tw/world/3057650": {
+      "title": "宏福苑格局釀禍！　建築中間內凹　日專家：火如煙囪竄燒",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:45.284406",
+      "archive_path": "content/news/tvbs/archive/宏福苑格局釀禍-建築中間內凹-日專家火如煙囪竄燒"
+    },
+    "https://news.tvbs.com.tw/china/3057746": {
+      "title": "宏福苑火場死灰復燃　消防員持續噴水降溫",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:51.505855",
+      "archive_path": "content/news/tvbs/archive/宏福苑火場死灰復燃-消防員持續噴水降溫"
+    },
+    "https://news.tvbs.com.tw/local/3057809": {
+      "title": "建築結構恐遭重創！高溫影響樓層承載力　重建費用難估算",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:35:58.378824",
+      "archive_path": "content/news/tvbs/archive/建築結構恐遭重創高溫影響樓層承載力-重建費用難估算"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057742": {
+      "title": "快訊／明天就開唱！濱崎步上海演唱會「宣布取消」：真的很抱歉",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:36:04.494276",
+      "archive_path": "content/news/tvbs/archive/快訊明天就開唱濱崎步上海演唱會宣布取消真的很抱歉"
+    },
+    "https://news.tvbs.com.tw/world/3057463": {
+      "title": "有人飯店過夜、有人商場打地鋪　宏福苑災民憂:未來該住哪",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:36:11.721829",
+      "archive_path": "content/news/tvbs/archive/有人飯店過夜有人商場打地鋪-宏福苑災民憂未來該住哪"
+    },
+    "https://news.tvbs.com.tw/world/3058078": {
+      "title": "歡笑之地籠罩哀戚…香港迪士尼撤彩色照悼念　取消高空煙火施放",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:36:18.184498",
+      "archive_path": "content/news/tvbs/archive/歡笑之地籠罩哀戚香港迪士尼撤彩色照悼念-取消高空煙火施放"
+    },
+    "https://news.tvbs.com.tw/world/3057433": {
+      "title": "港宏福苑大火是竹棚惹禍？是否棄用引爭論　專家：竹子難以燃燒",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:36:24.339589",
+      "archive_path": "content/news/tvbs/archive/港宏福苑大火是竹棚惹禍是否棄用引爭論-專家竹子難以燃燒"
+    },
+    "https://news.tvbs.com.tw/world/3057155": {
+      "title": "港宏福苑奪94命！百名「步兵」通宵救援　宛如台灣鏟子超人再現",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:36:30.143246",
+      "archive_path": "content/news/tvbs/archive/港宏福苑奪94命百名步兵通宵救援-宛如台灣鏟子超人再現"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057899": {
+      "title": "獨家直擊／香港大火⋯MAMA全體工作人員「穿深色服裝」以表哀悼",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:36:36.639412",
+      "archive_path": "content/news/tvbs/archive/獨家直擊香港大火mama全體工作人員穿深色服裝以表哀悼"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058133": {
+      "title": "甄子丹妻揭「香港大火內幕」！控陸製防護網釀災　被罵爆急道歉",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:36:43.786576",
+      "archive_path": "content/news/tvbs/archive/甄子丹妻揭香港大火內幕控陸製防護網釀災-被罵爆急道歉"
+    },
+    "https://news.tvbs.com.tw/china/3057761": {
+      "title": "竹棚助燃？宏福苑火災後　港府擬換金屬架",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:36:49.300575",
+      "archive_path": "content/news/tvbs/archive/竹棚助燃宏福苑火災後-港府擬換金屬架"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057631": {
+      "title": "藝人齊送暖！楊丞琳、李榮浩慨捐百萬人民幣喊：天佑香港",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:36:55.052777",
+      "archive_path": "content/news/tvbs/archive/藝人齊送暖楊丞琳李榮浩慨捐百萬人民幣喊天佑香港"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057469": {
+      "title": "藝界金援！aespa、SJ捐款香港　麋先生演出確定延期",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:00.980427",
+      "archive_path": "content/news/tvbs/archive/藝界金援aespasj捐款香港-麋先生演出確定延期"
+    },
+    "https://news.tvbs.com.tw/life/3057287": {
+      "title": "諷香港大火像鬼滅「無限城」挨轟！台粉專道歉喊1句話又被罵翻",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:08.423318",
+      "archive_path": "content/news/tvbs/archive/諷香港大火像鬼滅無限城挨轟台粉專道歉喊1句話又被罵翻"
+    },
+    "https://news.tvbs.com.tw/life/3057937": {
+      "title": "館長出手了！哀悼宏福苑大火捐100萬港幣　高喊「香港同胞加油」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:13.899765",
+      "archive_path": "content/news/tvbs/archive/館長出手了哀悼宏福苑大火捐100萬港幣-高喊香港同胞加油"
+    },
+    "https://news.tvbs.com.tw/local/3057893": {
+      "title": "香港大火 / 多個家庭破碎現場尋子女　女心碎痛哭「好不容易才的有小孩」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:19.817693",
+      "archive_path": "content/news/tvbs/archive/香港大火-多個家庭破碎現場尋子女-女心碎痛哭好不容易才的有小孩"
+    },
+    "https://news.tvbs.com.tw/politics/3057476": {
+      "title": "香港大火敲警鐘　雙北盤點大樓「強化稽查」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:26.000881",
+      "archive_path": "content/news/tvbs/archive/香港大火敲警鐘-雙北盤點大樓強化稽查"
+    },
+    "https://news.tvbs.com.tw/world/3057575": {
+      "title": "香港大火是人禍？港府巡查16次僅提醒防火　住戶曾2度反映疑慮",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:32.290458",
+      "archive_path": "content/news/tvbs/archive/香港大火是人禍港府巡查16次僅提醒防火-住戶曾2度反映疑慮"
+    },
+    "https://news.tvbs.com.tw/politics/3057486": {
+      "title": "香港大火死傷慘！萬華也失火　蔣萬安下令：加強老舊社區稽查",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:39.116997",
+      "archive_path": "content/news/tvbs/archive/香港大火死傷慘萬華也失火-蔣萬安下令加強老舊社區稽查"
+    },
+    "https://news.tvbs.com.tw/china/3057641": {
+      "title": "香港大火釀煉獄！陸網紅喊「拍下來再說」挨轟　道歉文發了又刪",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:44.759386",
+      "archive_path": "content/news/tvbs/archive/香港大火釀煉獄陸網紅喊拍下來再說挨轟-道歉文發了又刪"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057186": {
+      "title": "香港大火／MAMA宣布「照常舉辦」全球直播　各國收看平台曝光",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:50.550556",
+      "archive_path": "content/news/tvbs/archive/香港大火mama宣布照常舉辦全球直播-各國收看平台曝光"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057059": {
+      "title": "香港大火／MAMA發聲明致哀！將設默哀儀式、捐款救災",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:37:55.839603",
+      "archive_path": "content/news/tvbs/archive/香港大火mama發聲明致哀將設默哀儀式捐款救災"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057096": {
+      "title": "香港大火／MIRROR宣布缺席MAMA：致以最深切慰問",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:02.145285",
+      "archive_path": "content/news/tvbs/archive/香港大火mirror宣布缺席mama致以最深切慰問"
+    },
+    "https://news.tvbs.com.tw/world/3057091": {
+      "title": "香港大火／「已成廢墟！」宏福苑深夜又竄火煙　惡火已釀83死",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:07.624534",
+      "archive_path": "content/news/tvbs/archive/香港大火已成廢墟宏福苑深夜又竄火煙-惡火已釀83死"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058014": {
+      "title": "香港大火／五月天率師弟妹捐220萬港幣救災　喊話：共渡艱難時刻",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:14.485631",
+      "archive_path": "content/news/tvbs/archive/香港大火五月天率師弟妹捐220萬港幣救災-喊話共渡艱難時刻"
+    },
+    "https://news.tvbs.com.tw/china/3057597": {
+      "title": "香港大火／千字文憶逃生過程！倖存者冒死救鄰居：像在「煉獄」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:20.442384",
+      "archive_path": "content/news/tvbs/archive/香港大火千字文憶逃生過程倖存者冒死救鄰居像在煉獄"
+    },
+    "https://news.tvbs.com.tw/china/3058073": {
+      "title": "香港大火／各界捐款超過32億！Apple也出手了",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:26.563916",
+      "archive_path": "content/news/tvbs/archive/香港大火各界捐款超過32億apple也出手了"
+    },
+    "https://news.tvbs.com.tw/china/3057794": {
+      "title": "香港大火／失聯仍多！看遺體照片認屍　家屬找嘸人淚崩",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:32.455457",
+      "archive_path": "content/news/tvbs/archive/香港大火失聯仍多看遺體照片認屍-家屬找嘸人淚崩"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057467": {
+      "title": "香港大火／子瑜「黑底白字文」發聲　沉痛喊：願平安早日回到你們身旁",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:38.537897",
+      "archive_path": "content/news/tvbs/archive/香港大火子瑜黑底白字文發聲-沉痛喊願平安早日回到你們身旁"
+    },
+    "https://news.tvbs.com.tw/world/3057126": {
+      "title": "香港大火／宏福苑3棟樓深夜仍冒火光　宏泰閣一度再現「火柱」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:45.498591",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑3棟樓深夜仍冒火光-宏泰閣一度再現火柱"
+    },
+    "https://news.tvbs.com.tw/china/3057629": {
+      "title": "香港大火／宏福苑破百死！陸媒喊「今晚吃叉燒」　冷血留言區被罵翻",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:51.097647",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑破百死陸媒喊今晚吃叉燒-冷血留言區被罵翻"
+    },
+    "https://news.tvbs.com.tw/china/3057953": {
+      "title": "香港大火／宏福苑連燒破百死！港府發放慰問金　金額曝光",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:38:57.616904",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑連燒破百死港府發放慰問金-金額曝光"
+    },
+    "https://news.tvbs.com.tw/local/3057997": {
+      "title": "香港大火／家屬焦急尋親　警「災難支援系統」助辨識身分",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:04.087096",
+      "archive_path": "content/news/tvbs/archive/香港大火家屬焦急尋親-警災難支援系統助辨識身分"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057173": {
+      "title": "香港大火／將登MAMA舞台！aespa暖捐200萬　寧寧：願平安無事",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:11.331504",
+      "archive_path": "content/news/tvbs/archive/香港大火將登mama舞台aespa暖捐200萬-寧寧願平安無事"
+    },
+    "https://news.tvbs.com.tw/china/3057823": {
+      "title": "香港大火／志工忙發物資　批有「假災民」亂拿",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:16.884203",
+      "archive_path": "content/news/tvbs/archive/香港大火志工忙發物資-批有假災民亂拿"
+    },
+    "https://news.tvbs.com.tw/china/3057808": {
+      "title": "香港大火／救人還要滅火！凌晨近6點又燒　消防疲於奔命",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:23.453829",
+      "archive_path": "content/news/tvbs/archive/香港大火救人還要滅火凌晨近6點又燒-消防疲於奔命"
+    },
+    "https://news.tvbs.com.tw/china/3057132": {
+      "title": "香港大火／朋友在加拿大父母失聯　男子受託尋親：找很久找不到",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:29.028672",
+      "archive_path": "content/news/tvbs/archive/香港大火朋友在加拿大父母失聯-男子受託尋親找很久找不到"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057613": {
+      "title": "香港大火／楊丞琳、李榮浩捐100萬人民幣　出手救災：平安共渡難關",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:34.902943",
+      "archive_path": "content/news/tvbs/archive/香港大火楊丞琳李榮浩捐100萬人民幣-出手救災平安共渡難關"
+    },
+    "https://news.tvbs.com.tw/world/3057164": {
+      "title": "香港大火／歌手吳林峰開炮：不滿起火歸咎竹棚、怒轟關愛隊作秀",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:40.846311",
+      "archive_path": "content/news/tvbs/archive/香港大火歌手吳林峰開炮不滿起火歸咎竹棚怒轟關愛隊作秀"
+    },
+    "https://news.tvbs.com.tw/china/3057868": {
+      "title": "香港大火／消防員何偉豪殉職！女友服飾店暫停營業　友證實",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:47.133416",
+      "archive_path": "content/news/tvbs/archive/香港大火消防員何偉豪殉職女友服飾店暫停營業-友證實"
+    },
+    "https://news.tvbs.com.tw/world/3057959": {
+      "title": "香港大火／港府降半旗三天！港大火調查　封窗「保麗龍板」是禍首",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:52.793094",
+      "archive_path": "content/news/tvbs/archive/香港大火港府降半旗三天港大火調查-封窗保麗龍板是禍首"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057571": {
+      "title": "香港大火／港男星喊「房屋低於40m房東加租」！遭網撻伐關留言",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:39:59.176107",
+      "archive_path": "content/news/tvbs/archive/香港大火港男星喊房屋低於40m房東加租遭網撻伐關留言"
+    },
+    "https://news.tvbs.com.tw/local/3058090": {
+      "title": "香港大火／燭光守夜為香港祈福！　志工送水、餐盒、熱食",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:40:04.662316",
+      "archive_path": "content/news/tvbs/archive/香港大火燭光守夜為香港祈福-志工送水餐盒熱食"
+    },
+    "https://news.tvbs.com.tw/world/3057127": {
+      "title": "香港大火／程式設計師用AI花半小時　建報平安尋人資訊網",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:40:11.270935",
+      "archive_path": "content/news/tvbs/archive/香港大火程式設計師用ai花半小時-建報平安尋人資訊網"
+    },
+    "https://news.tvbs.com.tw/china/3056980": {
+      "title": "香港大火／與親人同住宏福苑！16歲女失聯前最後訊息曝：好辛苦",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:40:17.613058",
+      "archive_path": "content/news/tvbs/archive/香港大火與親人同住宏福苑16歲女失聯前最後訊息曝好辛苦"
+    },
+    "https://news.tvbs.com.tw/world/3057839": {
+      "title": "香港大火／著火七棟樓鋼筋恐受損倒塌　專家：整修比拆掉更燒錢",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:40:23.297235",
+      "archive_path": "content/news/tvbs/archive/香港大火著火七棟樓鋼筋恐受損倒塌-專家整修比拆掉更燒錢"
+    },
+    "https://news.tvbs.com.tw/china/3057861": {
+      "title": "香港大火／起火點研判宏昌閣低層圍網　保麗龍板讓火勢失控",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:40:29.446517",
+      "archive_path": "content/news/tvbs/archive/香港大火起火點研判宏昌閣低層圍網-保麗龍板讓火勢失控"
+    },
+    "https://news.tvbs.com.tw/world/3057418": {
+      "title": "香港大火／逾70年來最嚴重火災！「宏福苑後續應對」全世界都在看",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:40:36.107894",
+      "archive_path": "content/news/tvbs/archive/香港大火逾70年來最嚴重火災宏福苑後續應對全世界都在看"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057160": {
+      "title": "香港大火／關詩敏悲揭外婆也住這　無力痛喊：眼睜睜看著家燃燒",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:40:42.678113",
+      "archive_path": "content/news/tvbs/archive/香港大火關詩敏悲揭外婆也住這-無力痛喊眼睜睜看著家燃燒"
+    },
+    "https://news.tvbs.com.tw/world/3057238": {
+      "title": "香港宏福苑大火震驚全球　教宗良十四世、多國領導人致哀",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:40:48.347922",
+      "archive_path": "content/news/tvbs/archive/香港宏福苑大火震驚全球-教宗良十四世多國領導人致哀"
+    },
+    "https://news.tvbs.com.tw/local/3057820": {
+      "title": "香港惡火37歲消防員殉職　女友：想再牽你的手",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:40:54.853675",
+      "archive_path": "content/news/tvbs/archive/香港惡火37歲消防員殉職-女友想再牽你的手"
+    },
+    "https://news.tvbs.com.tw/life/3057206": {
+      "title": "高樓火警引危機意識！家事達人：照明不足、家中雜物成逃生阻礙",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:01.013326",
+      "archive_path": "content/news/tvbs/archive/高樓火警引危機意識家事達人照明不足家中雜物成逃生阻礙"
+    },
+    "https://news.tvbs.com.tw/world/3058633": {
+      "title": "5分鐘竄燒32層樓！宏福苑「前後對比」慘況曝",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:07.501270",
+      "archive_path": "content/news/tvbs/archive/5分鐘竄燒32層樓宏福苑前後對比慘況曝"
+    },
+    "https://news.tvbs.com.tw/world/3058371": {
+      "title": "89具遺體待辨認！會堂今開放12hr　家屬焦急",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:14.060248",
+      "archive_path": "content/news/tvbs/archive/89具遺體待辨認會堂今開放12hr-家屬焦急"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058799": {
+      "title": "MAMA／GD連唱3首神曲！避唱敏感歌詞　「1舉動」惹哭全場",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:20.610049",
+      "archive_path": "content/news/tvbs/archive/mamagd連唱3首神曲避唱敏感歌詞-1舉動惹哭全場"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058697": {
+      "title": "MAMA／大咖影后金憓秀「全黑西裝」主持！　GD別黑絲帶致意：希望給大家力量",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:27.563042",
+      "archive_path": "content/news/tvbs/archive/mama大咖影后金憓秀全黑西裝主持-gd別黑絲帶致意希望給大家力量"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058661": {
+      "title": "MAMA／陰間使者太敏感⋯　《Kpop獵魔女團》Saja Boys演出沒了",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:33.549246",
+      "archive_path": "content/news/tvbs/archive/mama陰間使者太敏感-kpop獵魔女團saja-boys演出沒了"
+    },
+    "https://news.tvbs.com.tw/world/3058365": {
+      "title": "出錢出力！香港大火「政府基金達11億港幣」千名志工自發協助",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:40.209814",
+      "archive_path": "content/news/tvbs/archive/出錢出力香港大火政府基金達11億港幣千名志工自發協助"
+    },
+    "https://news.tvbs.com.tw/world/3058328": {
+      "title": "宏福苑大火倖存！印尼家傭急喚雇主逃生　保住2人性命",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:45.768206",
+      "archive_path": "content/news/tvbs/archive/宏福苑大火倖存印尼家傭急喚雇主逃生-保住2人性命"
+    },
+    "https://news.tvbs.com.tw/world/3058704": {
+      "title": "宏福苑大火熄滅　逾600名辨認組入場搜索",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:52.027088",
+      "archive_path": "content/news/tvbs/archive/宏福苑大火熄滅-逾600名辨認組入場搜索"
+    },
+    "https://news.tvbs.com.tw/world/3058759": {
+      "title": "宏福苑居民憤怒達臨界點 英媒：民怨隨時爆發",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:41:57.823463",
+      "archive_path": "content/news/tvbs/archive/宏福苑居民憤怒達臨界點-英媒民怨隨時爆發"
+    },
+    "https://news.tvbs.com.tw/world/3058555": {
+      "title": "市民弔唁殉職消防！　與將結婚女友天人永隔",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:42:03.728010",
+      "archive_path": "content/news/tvbs/archive/市民弔唁殉職消防-與將結婚女友天人永隔"
+    },
+    "https://news.tvbs.com.tw/world/3058762": {
+      "title": "愛心物資、善款湧入 「捐助基金」獲11億港幣",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:42:10.108630",
+      "archive_path": "content/news/tvbs/archive/愛心物資善款湧入-捐助基金獲11億港幣"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058566": {
+      "title": "林子祥、葉蒨文獻唱為香港祈福　王心凌默哀：太震驚",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:42:16.302017",
+      "archive_path": "content/news/tvbs/archive/林子祥葉蒨文獻唱為香港祈福-王心凌默哀太震驚"
+    },
+    "https://news.tvbs.com.tw/world/3058336": {
+      "title": "火舌吞噬宏昌閣！住戶驚見「火種掉落窗戶爆」　走廊滿是濃煙恐無命",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:42:22.768500",
+      "archive_path": "content/news/tvbs/archive/火舌吞噬宏昌閣住戶驚見火種掉落窗戶爆-走廊滿是濃煙恐無命"
+    },
+    "https://news.tvbs.com.tw/politics/3058380": {
+      "title": "香港大火殷鑒　蔣萬安下令稽查老舊建物",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:42:30.382125",
+      "archive_path": "content/news/tvbs/archive/香港大火殷鑒-蔣萬安下令稽查老舊建物"
+    },
+    "https://news.tvbs.com.tw/local/3058601": {
+      "title": "香港大火災復亂象　假二維碼詐善款　假消防員稱裝備不足",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:42:36.519155",
+      "archive_path": "content/news/tvbs/archive/香港大火災復亂象-假二維碼詐善款-假消防員稱裝備不足"
+    },
+    "https://news.tvbs.com.tw/china/3058449": {
+      "title": "香港大火／600名DVIU科學辨認遺體　蒐證調查估3至4週",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:42:43.146140",
+      "archive_path": "content/news/tvbs/archive/香港大火600名dviu科學辨認遺體-蒐證調查估3至4週"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058574": {
+      "title": "香港大火／GD捐100萬港幣　盼援助「消防員與志工」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:42:49.763845",
+      "archive_path": "content/news/tvbs/archive/香港大火gd捐100萬港幣-盼援助消防員與志工"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058438": {
+      "title": "香港大火／i-dle避唱「燃燒、good thing」　胸前1細節感動粉絲",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:42:56.223458",
+      "archive_path": "content/news/tvbs/archive/香港大火i-dle避唱燃燒good-thing-胸前1細節感動粉絲"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058634": {
+      "title": "香港大火／《善心滿東華》籌款晚會今晚直播　逾百藝人齊心助災民",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:43:02.557179",
+      "archive_path": "content/news/tvbs/archive/香港大火善心滿東華籌款晚會今晚直播-逾百藝人齊心助災民"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058129": {
+      "title": "香港大火／上百人命慘死！大咖歌后嗆官員說廢話　怒轟：燒的不是他家",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:43:08.758023",
+      "archive_path": "content/news/tvbs/archive/香港大火上百人命慘死大咖歌后嗆官員說廢話-怒轟燒的不是他家"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058627": {
+      "title": "香港大火／中港台群星「總動員」送暖　捐款名單、金額一次看",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:43:15.446618",
+      "archive_path": "content/news/tvbs/archive/香港大火中港台群星總動員送暖-捐款名單金額一次看"
+    },
+    "https://news.tvbs.com.tw/china/3058679": {
+      "title": "香港大火／外籍幫傭「肉身護3個月嬰」受困數小時　艱難處境引關注",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:43:22.123603",
+      "archive_path": "content/news/tvbs/archive/香港大火外籍幫傭肉身護3個月嬰受困數小時-艱難處境引關注"
+    },
+    "https://news.tvbs.com.tw/world/3058253": {
+      "title": "香港大火／宏福苑128死揭管理漏洞　前保全：消防系統早成擺設",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:43:28.064128",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑128死揭管理漏洞-前保全消防系統早成擺設"
+    },
+    "https://news.tvbs.com.tw/world/3058281": {
+      "title": "香港大火／宏福苑40年住戶驚險逃生　受困2小時還原「生死瞬間」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:43:33.993944",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑40年住戶驚險逃生-受困2小時還原生死瞬間"
+    },
+    "https://news.tvbs.com.tw/china/3058370": {
+      "title": "香港大火／宏福苑大火128死！民怨政府高官「不在乎」　餐會見鮑魚好酒",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:43:41.464783",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑大火128死民怨政府高官不在乎-餐會見鮑魚好酒"
+    },
+    "https://news.tvbs.com.tw/china/3058148": {
+      "title": "香港大火／宏福苑居民不需登記證　即可接受「一戶一社工」服務",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:43:47.656435",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑居民不需登記證-即可接受一戶一社工服務"
+    },
+    "https://news.tvbs.com.tw/world/3058137": {
+      "title": "香港大火／宏福苑維修工程涉貪 香港廉政公署拘捕8人",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:43:53.334326",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑維修工程涉貪-香港廉政公署拘捕8人"
+    },
+    "https://news.tvbs.com.tw/china/3058766": {
+      "title": "香港大火／才交保！廉署今再拘捕3承建商負責人　搜索13地點",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:00.032099",
+      "archive_path": "content/news/tvbs/archive/香港大火才交保廉署今再拘捕3承建商負責人-搜索13地點"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058205": {
+      "title": "香港大火／日娛首人！YOSHIKI豪捐316萬　暖喊：無法坐視不管",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:05.910978",
+      "archive_path": "content/news/tvbs/archive/香港大火日娛首人yoshiki豪捐316萬-暖喊無法坐視不管"
+    },
+    "https://news.tvbs.com.tw/world/3058507": {
+      "title": "香港大火／未出動直升機灑水遭質疑　港消防處長：恐加劇火勢",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:12.019569",
+      "archive_path": "content/news/tvbs/archive/香港大火未出動直升機灑水遭質疑-港消防處長恐加劇火勢"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058685": {
+      "title": "香港大火／梁朝偉、李連杰等大咖捐款被讚爆　余文樂曬重機照挨轟",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:18.411688",
+      "archive_path": "content/news/tvbs/archive/香港大火梁朝偉李連杰等大咖捐款被讚爆-余文樂曬重機照挨轟"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058448": {
+      "title": "香港大火／梁朝偉夫妻合捐200萬港幣送暖　姜濤捐百萬賑災",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:24.715391",
+      "archive_path": "content/news/tvbs/archive/香港大火梁朝偉夫妻合捐200萬港幣送暖-姜濤捐百萬賑災"
+    },
+    "https://news.tvbs.com.tw/entertainment/3057334": {
+      "title": "香港大火／楊千嬅照唱！捐首場收益、取消煙火特效　網轟：眼中只有錢",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:31.265929",
+      "archive_path": "content/news/tvbs/archive/香港大火楊千嬅照唱捐首場收益取消煙火特效-網轟眼中只有錢"
+    },
+    "https://news.tvbs.com.tw/world/3058309": {
+      "title": "香港大火／物資蟑螂宏福苑「趁火打劫」　歌手怒轟：比乞丐可憐",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:36.890423",
+      "archive_path": "content/news/tvbs/archive/香港大火物資蟑螂宏福苑趁火打劫-歌手怒轟比乞丐可憐"
+    },
+    "https://news.tvbs.com.tw/china/3058155": {
+      "title": "香港大火／生還者歷經2.5小時火劫　救人獲讚謙虛喊：我不是英雄",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:42.527329",
+      "archive_path": "content/news/tvbs/archive/香港大火生還者歷經25小時火劫-救人獲讚謙虛喊我不是英雄"
+    },
+    "https://news.tvbs.com.tw/china/3058551": {
+      "title": "香港大火／老翁最後的溫柔！緊握1物助認屍　媳婦悲讚：聰明的老人家",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:48.265139",
+      "archive_path": "content/news/tvbs/archive/香港大火老翁最後的溫柔緊握1物助認屍-媳婦悲讚聰明的老人家"
+    },
+    "https://news.tvbs.com.tw/china/3058171": {
+      "title": "香港大火／菲傭肉身緊護3個月大嬰兒被困獲救　加護病房未脫險",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:53.779909",
+      "archive_path": "content/news/tvbs/archive/香港大火菲傭肉身緊護3個月大嬰兒被困獲救-加護病房未脫險"
+    },
+    "https://news.tvbs.com.tw/china/3058695": {
+      "title": "香港大火／釀128死！李家超臉書遭灌爆　北京警告：以災亂港必嚴懲",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:44:59.943106",
+      "archive_path": "content/news/tvbs/archive/香港大火釀128死李家超臉書遭灌爆-北京警告以災亂港必嚴懲"
+    },
+    "https://news.tvbs.com.tw/world/3058273": {
+      "title": "香港宏福苑大火　政府降半旗3天　英王寫信給港人打氣",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:45:06.700752",
+      "archive_path": "content/news/tvbs/archive/香港宏福苑大火-政府降半旗3天-英王寫信給港人打氣"
+    },
+    "https://news.tvbs.com.tw/local/3058304": {
+      "title": "香港宏福苑大火釀死！廉政公署嚴查貪腐　11人落網3交保",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:45:13.718770",
+      "archive_path": "content/news/tvbs/archive/香港宏福苑大火釀死廉政公署嚴查貪腐-11人落網3交保"
+    },
+    "https://news.tvbs.com.tw/world/3058618": {
+      "title": "香港火遺體難辨！父母住27樓失聯男痛哭　罹難翁手握證件",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:45:19.225350",
+      "archive_path": "content/news/tvbs/archive/香港火遺體難辨父母住27樓失聯男痛哭-罹難翁手握證件"
+    },
+    "https://news.tvbs.com.tw/world/3058954": {
+      "title": "98%是空氣！　香港TVB試燃保麗龍　比棚網助燃、還釋一氧化碳",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:45:25.571040",
+      "archive_path": "content/news/tvbs/archive/98是空氣-香港tvb試燃保麗龍-比棚網助燃還釋一氧化碳"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058960": {
+      "title": "MAMA頒獎Day2　GD、周潤發、金憓秀穿「黑白色系」登場致詞祈福",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:45:31.408453",
+      "archive_path": "content/news/tvbs/archive/mama頒獎day2-gd周潤發金憓秀穿黑白色系登場致詞祈福"
+    },
+    "https://news.tvbs.com.tw/world/3059254": {
+      "title": "再拘3名承建商負責人！　宏福苑大火查涉貪",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:45:37.106281",
+      "archive_path": "content/news/tvbs/archive/再拘3名承建商負責人-宏福苑大火查涉貪"
+    },
+    "https://news.tvbs.com.tw/china/3059069": {
+      "title": "宏福苑惡火遺體辨識艱鉅　「白衣特勤隊」採集DNA指紋齊上陣",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:45:43.158848",
+      "archive_path": "content/news/tvbs/archive/宏福苑惡火遺體辨識艱鉅-白衣特勤隊採集dna指紋齊上陣"
+    },
+    "https://news.tvbs.com.tw/world/3058967": {
+      "title": "找家人、等安置　畢生積蓄被惡火燒光　宏福苑災民哭紅眼眶",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:45:49.211802",
+      "archive_path": "content/news/tvbs/archive/找家人等安置-畢生積蓄被惡火燒光-宏福苑災民哭紅眼眶"
+    },
+    "https://news.tvbs.com.tw/world/3059018": {
+      "title": "水火無情！　家長帶孩子悼宏福苑惡火 盼學會「敬畏生命」",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:45:55.823222",
+      "archive_path": "content/news/tvbs/archive/水火無情-家長帶孩子悼宏福苑惡火-盼學會敬畏生命"
+    },
+    "https://news.tvbs.com.tw/world/3059181": {
+      "title": "物資蟑螂？　大媽提兩大包搭港鐵　疑盜領宏福苑物資引公憤",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:01.259054",
+      "archive_path": "content/news/tvbs/archive/物資蟑螂-大媽提兩大包搭港鐵-疑盜領宏福苑物資引公憤"
+    },
+    "https://news.tvbs.com.tw/world/3059179": {
+      "title": "網曝宏福苑內部慘況　牆壁斑駁、滿地灰　災民：值錢東西全燒光",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:07.094670",
+      "archive_path": "content/news/tvbs/archive/網曝宏福苑內部慘況-牆壁斑駁滿地灰-災民值錢東西全燒光"
+    },
+    "https://news.tvbs.com.tw/world/3059024": {
+      "title": "趁亂聯署！　港男藉宏福苑大火涉「煽動」　港警逮人",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:13.074398",
+      "archive_path": "content/news/tvbs/archive/趁亂聯署-港男藉宏福苑大火涉煽動-港警逮人"
+    },
+    "https://news.tvbs.com.tw/china/3056297": {
+      "title": "香港大埔五級大火懶人包》146死、79傷！起火原因與時間軸一次看",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:19.648729",
+      "archive_path": "content/news/tvbs/archive/香港大埔五級大火懶人包146死79傷起火原因與時間軸一次看"
+    },
+    "https://news.tvbs.com.tw/entertainment/3059201": {
+      "title": "香港大火！楊千嬅紅館開唱捐800萬「全場默哀」　莫文蔚取消演唱會",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:25.928880",
+      "archive_path": "content/news/tvbs/archive/香港大火楊千嬅紅館開唱捐800萬全場默哀-莫文蔚取消演唱會"
+    },
+    "https://news.tvbs.com.tw/world/3058900": {
+      "title": "香港大火／128命喪宏福苑！印傭憶「生死瞬間」聞燒焦味　雇主：不可能",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:31.636363",
+      "archive_path": "content/news/tvbs/archive/香港大火128命喪宏福苑印傭憶生死瞬間聞燒焦味-雇主不可能"
+    },
+    "https://news.tvbs.com.tw/local/3058978": {
+      "title": "香港大火／3友葬身宏福苑惡火　嬤痛哭：願你們安息",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:38.483891",
+      "archive_path": "content/news/tvbs/archive/香港大火3友葬身宏福苑惡火-嬤痛哭願你們安息"
+    },
+    "https://news.tvbs.com.tw/china/3059350": {
+      "title": "香港大火／69歲工人救火喪命！家屬苦等20小時痛問：工人不被同情嗎",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:44.924012",
+      "archive_path": "content/news/tvbs/archive/香港大火69歲工人救火喪命家屬苦等20小時痛問工人不被同情嗎"
+    },
+    "https://news.tvbs.com.tw/china/3058727": {
+      "title": "香港大火／宏昌閣夫婦困15小時　絕望告別家人幸脫險",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:51.121440",
+      "archive_path": "content/news/tvbs/archive/香港大火宏昌閣夫婦困15小時-絕望告別家人幸脫險"
+    },
+    "https://news.tvbs.com.tw/world/3059263": {
+      "title": "香港大火／宏福苑大火引創傷　居民：香港沒想像中安全",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:46:57.409960",
+      "archive_path": "content/news/tvbs/archive/香港大火宏福苑大火引創傷-居民香港沒想像中安全"
+    },
+    "https://news.tvbs.com.tw/china/3059058": {
+      "title": "香港大火／救援行動持續　紅十字會捐款專區湧223萬善款",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:47:03.327176",
+      "archive_path": "content/news/tvbs/archive/香港大火救援行動持續-紅十字會捐款專區湧223萬善款"
+    },
+    "https://news.tvbs.com.tw/world/3059264": {
+      "title": "香港大火／領補助+證件花7小時　港災民：還要多次填表",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:47:09.162540",
+      "archive_path": "content/news/tvbs/archive/香港大火領補助證件花7小時-港災民還要多次填表"
+    },
+    "https://news.tvbs.com.tw/world/3059418": {
+      "title": "香港宏福苑大火奪命　民眾排隊獻花悼念",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:47:15.068054",
+      "archive_path": "content/news/tvbs/archive/香港宏福苑大火奪命-民眾排隊獻花悼念"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058876": {
+      "title": "香港宏福苑惡火怪竹棚？　甄妮、黃秋生打臉了：拜託有點常識",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:47:20.670363",
+      "archive_path": "content/news/tvbs/archive/香港宏福苑惡火怪竹棚-甄妮黃秋生打臉了拜託有點常識"
+    },
+    "https://news.tvbs.com.tw/entertainment/3058887": {
+      "title": "香港宏福苑火災百人亡　潘迎紫「手掌合十下跪」：逝者離苦得樂",
+      "source": "tvbs",
+      "scraped_at": "2025-11-30T17:47:27.560037",
+      "archive_path": "content/news/tvbs/archive/香港宏福苑火災百人亡-潘迎紫手掌合十下跪逝者離苦得樂"
     }
   },
-  "last_updated": "2025-11-30T17:08:30.849631"
+  "last_updated": "2025-11-30T17:47:27.560052"
 }
