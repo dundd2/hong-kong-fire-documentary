@@ -239,36 +239,104 @@ def save_archive(url_info: dict, html: str, source_dir: Path) -> Path:
     return article_dir
 
 
-async def scrape_url_async(url_info: dict, context, config: dict, retries: int = 0) -> tuple[str, bool]:
-    """Scrape a single URL asynchronously"""
+async def scrape_with_requests(url: str, config: dict) -> tuple[str, bool]:
+    """Fallback scraper using requests library for simple pages"""
+    import requests
+
+    try:
+        headers = {"User-Agent": config["user_agent"]}
+        response = requests.get(url, headers=headers, timeout=30, allow_redirects=True)
+        response.raise_for_status()
+        return response.text, True
+    except Exception as e:
+        log(f"  ⚠️ Requests fallback failed: {str(e)[:40]}", "WARN")
+        return "", False
+
+
+async def scrape_url_async(url_info: dict, context, config: dict, retries: int = 0, browser=None) -> tuple[str, bool]:
+    """
+    Scrape a single URL with multiple fallback strategies:
+    - Retry 0: domcontentloaded (fast)
+    - Retry 1: networkidle (wait for all network)
+    - Retry 2: new context without HTTP/2 (fixes protocol errors)
+    - Retry 3: requests library fallback (for download-triggering pages)
+    """
     url = url_info["url"]
     site_config = get_site_config(url, config)
     timeout = site_config["timeout_seconds"] * 1000
     max_retries = site_config["max_retries"]
 
-    page = await context.new_page()
+    # Strategy selection based on retry count
+    strategies = [
+        {"wait_until": "domcontentloaded", "desc": "domcontentloaded"},
+        {"wait_until": "networkidle", "desc": "networkidle"},
+        {"wait_until": "domcontentloaded", "desc": "no-http2", "no_http2": True},
+        {"desc": "requests-fallback", "use_requests": True},
+    ]
+
+    strategy_idx = min(retries, len(strategies) - 1)
+    strategy = strategies[strategy_idx]
+
+    # Use requests library as final fallback
+    if strategy.get("use_requests"):
+        log(f"  🔄 Trying requests fallback...", "WARN")
+        return await scrape_with_requests(url, config)
+
+    # Create new context for HTTP/2 disabled retry
+    use_context = context
+    created_context = False
+    if strategy.get("no_http2") and browser:
+        try:
+            use_context = await browser.new_context(
+                user_agent=config["user_agent"],
+                viewport={"width": 1920, "height": 1080},
+                extra_http_headers={"Upgrade-Insecure-Requests": "1"},
+                ignore_https_errors=True,
+            )
+            created_context = True
+        except Exception:
+            use_context = context
+
+    page = await use_context.new_page()
     try:
-        await page.goto(url, timeout=timeout, wait_until="domcontentloaded")
+        # Handle download-triggering pages
+        page.on("download", lambda _: None)  # Ignore downloads
+
+        await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
         await page.wait_for_timeout(1500)  # Wait for JS
         html = await page.content()
+
+        # Check if we got meaningful content
+        if len(html) < 500:
+            raise ValueError("Page content too short, likely blocked")
+
         return html, True
+
     except PlaywrightTimeout:
         if retries < max_retries:
-            log(f"  ⏳ Timeout, retry {retries + 1}/{max_retries}...", "WARN")
+            log(f"  ⏳ Timeout ({strategy['desc']}), retry {retries + 1}/{max_retries}...", "WARN")
             await asyncio.sleep(2**retries)
-            return await scrape_url_async(url_info, context, config, retries + 1)
+            return await scrape_url_async(url_info, context, config, retries + 1, browser)
         return "", False
+
     except Exception as e:
+        error_str = str(e)
+
+        # Skip URLs that trigger downloads (like PDFs, videos)
+        if "Download is starting" in error_str:
+            log(f"  ⏭️ Skipping download URL", "WARN")
+            return "", False
+
         if retries < max_retries:
-            log(
-                f"  ⚠️ Error: {str(e)[:50]}, retry {retries + 1}/{max_retries}...",
-                "WARN",
-            )
+            log(f"  ⚠️ Error ({strategy['desc']}): {error_str[:40]}, retry {retries + 1}/{max_retries}...", "WARN")
             await asyncio.sleep(2**retries)
-            return await scrape_url_async(url_info, context, config, retries + 1)
+            return await scrape_url_async(url_info, context, config, retries + 1, browser)
         return "", False
+
     finally:
         await page.close()
+        if created_context:
+            await use_context.close()
 
 
 async def scrape_domain_queue(
@@ -298,7 +366,7 @@ async def scrape_domain_queue(
         pct = (progress["current"] / progress["total"]) * 100
         log(f"[{progress['current']}/{progress['total']}] ({pct:.0f}%) {domain}: {title}...")
 
-        html, success = await scrape_url_async(url_info, context, config)
+        html, success = await scrape_url_async(url_info, context, config, browser=browser)
 
         if success and html:
             # Find source directory
