@@ -1,9 +1,9 @@
 {
-  "success": 603,
-  "failed": 179,
+  "success": 0,
+  "failed": 1,
   "failed_urls": [
     "https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf"
   ],
-  "cycles": 179,
-  "started_at": "2025-12-02T09:46:40.790505"
+  "cycles": 1,
+  "started_at": "2025-12-03T16:19:38.395077"
 }
