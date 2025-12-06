@@ -161,3 +161,6 @@
 - [曾以區議員身份 聽工程滙報](https://www1.hkej.com/dailynews/politics/article/4262175/%E6%9B%BE%E4%BB%A5%E5%8D%80%E8%AD%B0%E5%93%A1%E8%BA%AB%E4%BB%BD+%E8%81%BD%E5%B7%A5%E7%A8%8B%E6%BB%99%E5%A0%B1)
 - [大火後 香港市民彰顯善心、愛心、信心](https://www1.hkej.com/dailynews/commentary/article/4262196/%E5%A4%A7%E7%81%AB%E5%BE%8C+%E9%A6%99%E6%B8%AF%E5%B8%82%E6%B0%91%E5%BD%B0%E9%A1%AF%E5%96%84%E5%BF%83%E3%80%81%E6%84%9B%E5%BF%83%E3%80%81%E4%BF%A1%E5%BF%83)
 - [夏寶龍昨南下深圳 聽取火災滙報](https://www1.hkej.com/dailynews/headline/article/4262125/%E5%A4%8F%E5%AF%B6%E9%BE%8D%E6%98%A8%E5%8D%97%E4%B8%8B%E6%B7%B1%E5%9C%B3+%E8%81%BD%E5%8F%96%E7%81%AB%E7%81%BD%E6%BB%99%E5%A0%B1)
+
+### 2025-12-03
+- [英火災調查專家：制度失效猛於火 2017倫敦住宅大廈燒通頂 與宏福苑相似](https://www.hkej.com/dailynews/headline/article/4263751/%E8%8B%B1%E7%81%AB%E7%81%BD%E8%AA%BF%E6%9F%A5%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%88%B6%E5%BA%A6%E5%A4%B1%E6%95%88%E7%8C%9B%E6%96%BC%E7%81%AB)
